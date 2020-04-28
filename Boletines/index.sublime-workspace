@@ -1,0 +1,491 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tabel",
+				"table-cell\tdisplay"
+			],
+			[
+				"ta",
+				"table-cell\tdisplay"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"p",
+				"padding-top\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"over",
+				"overflow-x\tproperty"
+			],
+			[
+				"ove",
+				"overflow-x\tproperty"
+			],
+			[
+				"overflow",
+				"overflow-y\tproperty"
+			],
+			[
+				"meta",
+				"meta\t<meta name=\"\" content=\"\">"
+			],
+			[
+				"he",
+				"height\tAttr"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"s",
+				"span\t<span>"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"borderrad",
+				"border-radius\tproperty"
+			],
+			[
+				"borderb",
+				"border-bottom-right-radius\tproperty"
+			],
+			[
+				"bordertop",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"bort",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"backgroundc",
+				"background-color\tproperty"
+			],
+			[
+				"border-s",
+				"border-spacing\tproperty"
+			],
+			[
+				"class",
+				"class\tAttr"
+			],
+			[
+				"clas",
+				"class\tAttr"
+			],
+			[
+				"si",
+				"font-size\tproperty"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"magin",
+				"margin-top\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"title",
+				"title\tAttr"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"td",
+				"td\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"ali",
+				"text-align\tproperty"
+			],
+			[
+				"div",
+				"div\t<div>"
+			],
+			[
+				"rel",
+				"rel\tAttr"
+			],
+			[
+				"wh",
+				"width\tproperty"
+			],
+			[
+				"Ba",
+				"background-color\tproperty"
+			],
+			[
+				"m",
+				"margin-top\tproperty"
+			],
+			[
+				"stl",
+				"style\tAttr"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"au",
+				"auto\tmargin-right"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"ul",
+				"url"
+			],
+			[
+				"me",
+				"meta\t<meta name=\"\" content=\"\">"
+			],
+			[
+				"n",
+				"name\tAttr"
+			],
+			[
+				"cha",
+				"charset\tAttr"
+			],
+			[
+				"lo",
+				"loop\tAttr"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"su",
+				"summary\tTag"
+			],
+			[
+				"de",
+				"details\tTag"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"re",
+				"readonly\tAttr"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"d",
+				"div\tTag"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"b",
+				"b\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/santi/Documents/GitHub/santorar.github.com/Boletines/Canales/juan.html",
+		"/C/Users/santi/Documents/GitHub/santorar.github.com/Boletines/Canales/pidoras.html",
+		"/C/Users/santi/Documents/GitHub/santorar.github.com/Boletines/Canales/dalto.html",
+		"/C/Users/santi/Documents/GitHub/santorar.github.com/Boletines/Canales/edteam.html",
+		"/C/Users/santi/Documents/GitHub/santorar.github.com/Boletines/Canales/ernesto.html",
+		"/C/Users/santi/Documents/GitHub/santorar.github.com/Boletines/css/main.css",
+		"/C/Users/santi/Documents/GitHub/santorar.github.com/Boletines/javascript/main.js",
+		"/C/Users/santi/Documents/GitHub/santorar.github.com/Boletines/index.html",
+		"/C/Users/santi/Desktop/Frontend/hoja de vida/index.html",
+		"/C/Users/santi/Desktop/nombres/mystyle.css",
+		"/C/Users/santi/Desktop/nombres/index.html",
+		"/C/Users/santi/Desktop/Diseño web/paginas/pagina.html",
+		"/C/Users/santi/Desktop/Diseño web/paginas/pagina1.html",
+		"/C/Users/santi/Desktop/html5/index.html",
+		"/C/xampp/htdocs/applications.html",
+		"/C/Users/santi/Desktop/Diseño web/Tablas.html",
+		"/C/Users/santi/Desktop/Diseño web/index.html",
+		"/C/Users/santi/Desktop/Diseño web/sobrenosotros.html",
+		"/C/Users/santi/.py"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\">\n",
+			"6",
+			"numero0",
+			"600px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\santi\\Documents\\GitHub\\santorar.github.com\\Boletines\\index.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
