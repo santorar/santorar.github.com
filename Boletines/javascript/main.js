@@ -10,7 +10,7 @@ closes.forEach(function(close){
             content.classList.add("fadeOutUp");
             content.classList.add("animated");
             setTimeout(() => {
-                location.href="/boletines";
+                location.href="/Boletines";
             }, 600);
             return false;
 
