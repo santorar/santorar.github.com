@@ -1,0 +1,157 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}
+.content-wrap{
+    max-width: 800px;
+    margin: auto;
+    width: 80%;
+}
+header{
+    background: #2D93AD;
+    color: aliceblue;
+    text-align: center;
+    padding: 60px 0;
+}
+h1{
+    font-family:'Caveat', sans-serif ;
+    font-size: 6em;
+    font-weight: 100;
+}
+header p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.9em;
+    padding: 10px 0;
+    letter-spacing: 1px;
+}
+header h2{
+    font-family:'Caveat', sans-serif;
+    font-size: 2.8em;
+    font-weight: 100;
+    padding: 10px 0;
+}
+a{
+    color: #DBD56E;
+}
+img{
+    width: 300px;
+    float: left;
+    margin: 20px;
+}
+a:hover{
+    text-decoration: none;
+}
+
+/*Projects*/
+.projects{
+    padding: 60px 0;
+}
+.projects{
+    font-family: 'Montserrat', sans-serif;
+}
+.projects h2{
+    font-family: 'Caveat', sans-serif;
+    font-size: 2em;
+}
+.project-item{
+    padding-bottom: 180px;
+    margin-top: 20px;
+    border-bottom: #000 dashed 1px;
+}
+.project-item:last-of-type{
+    border-bottom: none;
+}
+.btn{
+    background: #2D93AD;
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
+    position: relative;
+    top: 30px;
+    text-decoration: none;
+}
+.projects  p a{
+    color: #000;
+}
+/*work*/
+.work-experience{
+    background-color: #88AB75;
+    font-family: 'Montserrat', sans-serif;
+    padding: 60px 0;
+}
+.work-experience h2{
+    font-family: 'Caveat', sans-serif;
+    font-size: 3em;
+    font-weight: 400;
+    padding-bottom: 10px;
+}
+.job-item{
+    padding: 60px 0;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 20px;
+    border-bottom: #000 1px dashed;
+}
+.job-item:last-of-type{
+    border-bottom: none;
+}
+.job-summary p{
+    padding: 10px 0;
+}
+.job-summary li{
+    padding: 5px 40px;
+}
+/*Education*/
+.education{
+    background: url(images/joanna-kosinska-unsplash.jpg);
+    padding: 100px;
+    background-size: cover;
+    font-family: 'Montserrat', sans-serif;
+}
+.education h2{
+    padding: 20px 0;
+    font-family: 'Caveat', sans-serif;
+    font-size: 3em;
+    font-weight: 100;
+}
+.education p{
+    padding: 10px;
+}
+/*footer*/
+footer{
+    background: #1A1A1A;
+    color: #fff;
+    text-align: center;
+    padding: 50px 0 70px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+footer h2{
+    font-family: 'Caveat', sans-serif;
+    padding: 50px 0;
+    font-size: 3em;
+    font-weight: 100;
+}
+footer li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+}
+@media screen and (max-width:750px){
+    header{
+        text-align: left;
+    }
+    h1{
+        font-size: 4em;
+    }
+    img{
+        float: none;
+    }
+    .job-item{
+        display: block;
+        
+    }
+    .education{
+        background-position: bottom right;
+    }
+}
