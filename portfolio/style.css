@@ -1,7 +1,12 @@
+body{
+    box-sizing: border-box;
+}
+*,*::after,*::before{
+    box-sizing: inherit;
+}
 *{
     padding: 0;
     margin: 0;
-    
 }
 .content-wrap{
     max-width: 800px;
@@ -55,6 +60,7 @@ a:hover{
     font-size: 2em;
 }
 .project-item{
+    clear: both;
     padding-bottom: 180px;
     margin-top: 20px;
     border-bottom: #000 dashed 1px;
