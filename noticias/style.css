@@ -120,7 +120,7 @@ a{
     
 }
 #baner2{
-    background: url("img/image-four-min.jpg");
+    background: url("img/image-four-min.jpg") right
 }
 .social{
     text-align: center;
@@ -210,5 +210,11 @@ a{
     }
     .footer-lists{
         grid-template-columns: 1fr;
+    }
+    .baner p{
+        width: 100%;
+    }
+    .baner{
+        background-position: center ;
     }
 }
